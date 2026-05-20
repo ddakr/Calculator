@@ -19,7 +19,7 @@ main {
     width: 20%;
 }
 .frame-inner {
-  background-color: rgb(242, 200, 122);
+  background: linear-gradient(purple, red);
   padding: 0.5em;
   width: 100%;
   display: flex;
